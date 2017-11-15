@@ -1,0 +1,15 @@
+div {
+  border: blue solid 2px;
+  width: 200px;
+  height: 200px;
+}
+
+img {
+  width: 500px;
+  height: 200px;
+}
+
+.changeColor {
+  color: red;
+  font-size: 50px;
+}
